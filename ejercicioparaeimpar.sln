@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicioparaeimpar", "ejercicioparaeimpar.csproj", "{479FB941-E884-4154-8966-15780E2A042E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479FB941-E884-4154-8966-15780E2A042E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479FB941-E884-4154-8966-15780E2A042E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479FB941-E884-4154-8966-15780E2A042E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479FB941-E884-4154-8966-15780E2A042E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9F8899-17A6-452C-91D0-E0845ECF4BCC}
+	EndGlobalSection
+EndGlobal
