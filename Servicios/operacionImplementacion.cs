@@ -12,14 +12,13 @@ namespace ejercicioparaeimpar.Servicios
     {
         public void operacionNumero(int num1)
         {
-            int num2 = 2;
-            if (num1 % num2 == 0)
+            if (num1 % 2 == 0)
             {
-                Console.WriteLine("El numero:"+num1+". "+"Es un numero par");
+                Console.WriteLine("El numero:"+num1+". "+"Es un numero par.");
             }
             else
             {
-                Console.WriteLine("El numero:"+ num1+ ". "+ "Es un numero imparpar");
+                Console.WriteLine("El numero:"+ num1+ ". "+ "Es un numero impar.");
             }
            
            
